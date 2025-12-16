@@ -1,0 +1,1 @@
+ Crud operations done in the server4.js with get,push,put,delete,patch routes using expressjs as a framework,and the remaining server.js files explains about the get,push and some extra things/routes in the get.
